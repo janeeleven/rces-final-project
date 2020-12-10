@@ -1,3 +1,8 @@
 full_run.nc
 .ipynb_checkpoints/
 out.vtu
+conc_vals.nc 
+full_run.nc 
+infl_vals.nc 
+peak_vals.nc 
+surfder.nc
